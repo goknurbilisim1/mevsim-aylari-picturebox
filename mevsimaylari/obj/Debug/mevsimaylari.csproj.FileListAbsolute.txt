@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\bin\Debug\mevsimaylari.exe.config
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\bin\Debug\mevsimaylari.exe
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\bin\Debug\mevsimaylari.pdb
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.Form1.resources
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.Properties.Resources.resources
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.csproj.GenerateResource.cache
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.exe
+C:\Users\User\source\repos\mevsimaylari\mevsimaylari\obj\Debug\mevsimaylari.pdb
